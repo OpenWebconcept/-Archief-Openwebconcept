@@ -1,4 +1,9 @@
 # Open Webconcept
+
+## ⚠️  Publiek archief
+**Let op:** dit is een archief van de originele Open Webconcept repository. De code in deze repository is niet up-to-date en zou daarom ook niet in productie gebruikt moeten worden.
+
+## Inleiding
 Binnen het Open Webconcept werken gemeenten en bedrijven samen aan componenten voor de digitale dienstverlening van de overheid.
 Gemeenten zijn eigenaar van deze componenten en beheren deze in hun eigen code beheerplatformen als Github en Bitbucket.
 Op deze VNG GitHub hebben we een Wordpress-docker staan waarmee je alle bouwstenen eenvoudig zelf kunt installeren.
@@ -10,7 +15,7 @@ Met deze diensten ondersteund de Open Webconcept beweging het Common Ground geda
 Met deze aanpak wil de Open Webconcept beweging de marktwerking rond de ICT-dienstverlening binnen de overheid vergroten. Inmiddels zijn er ook al meerdere bedrijven die de componenten hebben geinstalleerd en als dienst voor gemeenten inzetten!
 
 
-# Fieldlab dienstverlening september 2018
+## Fieldlab dienstverlening september 2018
 Tijdens het VNG Fieldlab Dienstverlening hebben de gemeenten Buren, Heerenveen, Lansingerland, Súdwest-fryslân en de bedrijven Site.nu en Yard.nl in 3 dagen een eerste opzet voor een back- en frontend toepassing om meldingen in de openbare ruimte door te geven aan de overheid. De backend heeft als doel ontvangen meldingen via de NLx API te ontsluiten naar de gewenste afhandelsystemen. Tijdens het fieldlab hebben we dit gerealiseerd met het zaaksysteem van Haarlem welke ook op de NLx was aangesloten tijdens het fieldlab.
 De code die we hier ontwikkeld hebben staat in de map fieldlab-201809
 
